@@ -1,5 +1,5 @@
-document.getElementById('index').addEventListener('click',()=>{
-    window.open('index.html');
+document.getElementById('all').addEventListener('click',()=>{
+    window.open('all.html');
 })
 
 document.getElementById('cakes').addEventListener('click',()=>{
